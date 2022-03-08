@@ -4,11 +4,11 @@
 
 It hides blocks:
 
-![hiding blocks](https://i.imgur.com/7Ue8Zqu.gif)
+![hiding blocks](https://i.imgur.com/7Ue8Zqu.gif)https://i.imgur.com/7Ue8Zqu.gif
 
 And entities:
 
-![hiding entities](https://i.imgur.com/14UmTDZ.gif)
+![hiding entities](https://i.imgur.com/14UmTDZ.gif)https://i.imgur.com/14UmTDZ.gif
 
 It does not lag the server (unless there are obscene amounts of entities).
 
